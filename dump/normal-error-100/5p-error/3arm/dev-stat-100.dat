@@ -1,0 +1,14 @@
+Length: 500
+oracle - Total Reward: 21842.98 Deviation:477.25 Rel:2.18 OracleDiff:0.0 Oracle%:0.0
+static2 - Total Reward: 25496.01 Deviation:2853.42 Rel:11.19 OracleDiff:-3653.03 Oracle%:-16.72
+static10 - Total Reward: 29016.66 Deviation:1788.59 Rel:6.16 OracleDiff:-7173.68 Oracle%:-32.84
+static10rev - Total Reward: 28851.74 Deviation:2055.6 Rel:7.12 OracleDiff:-7008.76 Oracle%:-32.09
+epsilon0 - Total Reward: 22733.09 Deviation:1720.72 Rel:7.57 OracleDiff:-890.11 Oracle%:-4.08
+epsilon10 - Total Reward: 23420.77 Deviation:1365.71 Rel:5.83 OracleDiff:-1577.8 Oracle%:-7.22
+vbde05 - Total Reward: 24678.55 Deviation:1133.03 Rel:4.59 OracleDiff:-2835.58 Oracle%:-12.98
+vbde10 - Total Reward: 23890.63 Deviation:1374.12 Rel:5.75 OracleDiff:-2047.66 Oracle%:-9.37
+vbde50 - Total Reward: 23064.25 Deviation:1480.9 Rel:6.42 OracleDiff:-1221.27 Oracle%:-5.59
+vbde200 - Total Reward: 22986.9 Deviation:1661.45 Rel:7.23 OracleDiff:-1143.92 Oracle%:-5.24
+ucb - Total Reward: 27877.85 Deviation:505.09 Rel:1.81 OracleDiff:-6034.87 Oracle%:-27.63
+pessimist - Total Reward: 38692.1 Deviation:388.46 Rel:1.0 OracleDiff:-16849.12 Oracle%:-77.14
+
